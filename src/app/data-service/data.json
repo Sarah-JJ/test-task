@@ -1,0 +1,22 @@
+[
+  {
+    "title": "User name 1",
+    "customers": [
+      "Customer 1"
+    ]
+  },
+  {
+    "title": "User name 2",
+    "customers": [
+      "Customer 2"
+    ]
+  },
+  {
+    "title": "User name 3",
+    "customers": [
+      "Customer 3",
+      "Customer 4",
+      "Customer 5"
+    ]
+  }
+]
